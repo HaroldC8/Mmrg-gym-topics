@@ -148,7 +148,7 @@ int main()
 
 [Fence Painting](https://usaco.org/index.php?page=viewproblem2&cpid=567)
 
-[Sviestuvai-2023-1et](https://codeforces.com/gym/547716/problem/C)
+~[Sviestuvai-2023-1et](https://codeforces.com/gym/547716/problem/C)~ look at codeforces gym
 
 # Example problems
 
