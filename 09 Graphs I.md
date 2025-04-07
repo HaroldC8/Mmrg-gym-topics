@@ -70,6 +70,7 @@ In a coloring of a graph, each node is assigned a color so that no adjacent node
 
 A graph is bipartite (liet. dvispalvis) if it is possible to color it using two colors. It turns out that a graph is bipartite exactly when it does not contain a cycle with an odd number of edges.
 
+https://cses.fi/problemset/task/1668/
 https://siom.lmio.lt/task/grafo_spalvinimas.html
 
 # References
