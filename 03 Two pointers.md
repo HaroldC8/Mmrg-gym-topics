@@ -67,11 +67,11 @@ bool isPairSum(vector<int>& A, int N, int X)
 
 # Example problems
 
-https://codeforces.com/problemset/problem/1870/C
-
 https://leetcode.com/problems/valid-palindrome/description/
 
 https://leetcode.com/problems/reverse-words-in-a-string/
+
+https://codeforces.com/problemset/problem/1870/C
 
 # References
 https://www.geeksforgeeks.org/two-pointers-technique/
